@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Checkout - Fill your information</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>4f879b6f-58b8-4fc5-a970-f6f6c6bc9cb9</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>98408614-fc3a-49cc-8c67-90fedc1ec62e</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>e47e0dab-7dd2-472e-b4d5-e3cbf7f387a0</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>1c03c4f1-0eff-468b-bc0a-e644d1c715e3</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'novanto'</defaultValue>
+      <description></description>
+      <id>98408614-fc3a-49cc-8c67-90fedc1ec62e</id>
+      <masked>false</masked>
+      <name>first_name</name>
+   </variable>
+   <variable>
+      <defaultValue>'janotama'</defaultValue>
+      <description></description>
+      <id>e47e0dab-7dd2-472e-b4d5-e3cbf7f387a0</id>
+      <masked>false</masked>
+      <name>last_name</name>
+   </variable>
+   <variable>
+      <defaultValue>'13735'</defaultValue>
+      <description></description>
+      <id>1c03c4f1-0eff-468b-bc0a-e644d1c715e3</id>
+      <masked>false</masked>
+      <name>zip_code</name>
+   </variable>
+</TestCaseEntity>
